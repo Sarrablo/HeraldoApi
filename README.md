@@ -1,6 +1,6 @@
 # HeraldoApi
 
-Guerrilla (unnoficial) Api for heraldo.es.
+Guerrilla (unnoficial) Api for ["Heraldo de Aragon"](http://www.heraldo.es/ "Heraldo.es")
 </br>
 WARNING: Your IP can be banned for the site if you use this library. Use under your own risk.
 
